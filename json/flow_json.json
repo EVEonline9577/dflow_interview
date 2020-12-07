@@ -1,0 +1,401 @@
+{
+    "0": {
+        "time": 0.0,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": 0.0,
+                "Mass_flow_gas_lc": 0.0,
+                "Mass_flow_water_lc": 0.0,
+                "Mass_flow_liquid_sc": 0.0,
+                "Mass_flow_gas_sc": 0.0,
+                "Mass_flow_water_sc": 0.0,
+                "Volumetric_flow_liquid_lc": 0.0,
+                "Volumetric_flow_gas_lc": 0.0,
+                "Volumetric_flow_water_lc": 0.0,
+                "Volumetric_flow_liquid_sc": 0.0,
+                "Volumetric_flow_gas_sc": 0.0,
+                "Volumetric_flow_water_sc": 0.0
+            }
+        }
+    },
+    "1": {
+        "time": 100.002892817955,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -4.39260434880402,
+                "Mass_flow_gas_lc": -10.0725603466412,
+                "Mass_flow_water_lc": -0.636551029984683,
+                "Mass_flow_liquid_sc": -4.39260434880402,
+                "Mass_flow_gas_sc": -10.0725603466412,
+                "Mass_flow_water_sc": -0.636551029984683,
+                "Volumetric_flow_liquid_lc": -20.0591128195627,
+                "Volumetric_flow_gas_lc": -260.967082049155,
+                "Volumetric_flow_water_lc": -2.2034458730239,
+                "Volumetric_flow_liquid_sc": -20.8070732311769,
+                "Volumetric_flow_gas_sc": -44492.291101728,
+                "Volumetric_flow_water_sc": -2.29158370794486
+            }
+        }
+    },
+    "2": {
+        "time": 200.002892817904,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -3.30683640093292,
+                "Mass_flow_gas_lc": -9.80582983784562,
+                "Mass_flow_water_lc": -0.473017181873846,
+                "Mass_flow_liquid_sc": -3.30683640093292,
+                "Mass_flow_gas_sc": -9.80582983784562,
+                "Mass_flow_water_sc": -0.473017181873846,
+                "Volumetric_flow_liquid_lc": -15.1114647605997,
+                "Volumetric_flow_gas_lc": -259.07351686628,
+                "Volumetric_flow_water_lc": -1.63736716802485,
+                "Volumetric_flow_liquid_sc": -15.663961899156,
+                "Volumetric_flow_gas_sc": -43314.0949892567,
+                "Volumetric_flow_water_sc": -1.70286185474585
+            }
+        }
+    },
+    "3": {
+        "time": 300.002892817813,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.94512088294265,
+                "Mass_flow_gas_lc": -9.78269137916972,
+                "Mass_flow_water_lc": -0.418097066488963,
+                "Mass_flow_liquid_sc": -2.94512088294265,
+                "Mass_flow_gas_sc": -9.78269137916972,
+                "Mass_flow_water_sc": -0.418097066488963,
+                "Volumetric_flow_liquid_lc": -13.4605258380542,
+                "Volumetric_flow_gas_lc": -259.557697929232,
+                "Volumetric_flow_water_lc": -1.44725907630795,
+                "Volumetric_flow_liquid_sc": -13.9505726034126,
+                "Volumetric_flow_gas_sc": -43211.888300627,
+                "Volumetric_flow_water_sc": -1.50514943936027
+            }
+        }
+    },
+    "4": {
+        "time": 400.002892817722,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.77913897341503,
+                "Mass_flow_gas_lc": -9.79928022164173,
+                "Mass_flow_water_lc": -0.39263384768871,
+                "Mass_flow_liquid_sc": -2.77913897341503,
+                "Mass_flow_gas_sc": -9.79928022164173,
+                "Mass_flow_water_sc": -0.39263384768871,
+                "Volumetric_flow_liquid_lc": -12.7023472940834,
+                "Volumetric_flow_gas_lc": -260.249084847145,
+                "Volumetric_flow_water_lc": -1.3591171650763,
+                "Volumetric_flow_liquid_sc": -13.1643425056502,
+                "Volumetric_flow_gas_sc": -43285.164169215,
+                "Volumetric_flow_water_sc": -1.41348185167936
+            }
+        }
+    },
+    "5": {
+        "time": 500.002892817631,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.6912552755051,
+                "Mass_flow_gas_lc": -9.81478857309516,
+                "Mass_flow_water_lc": -0.379024849063713,
+                "Mass_flow_liquid_sc": -2.6912552755051,
+                "Mass_flow_gas_sc": -9.81478857309516,
+                "Mass_flow_water_sc": -0.379024849063713,
+                "Volumetric_flow_liquid_lc": -12.3007826792542,
+                "Volumetric_flow_gas_lc": -260.731243915593,
+                "Volumetric_flow_water_lc": -1.31200909291285,
+                "Volumetric_flow_liquid_sc": -12.7480513050242,
+                "Volumetric_flow_gas_sc": -43353.6673167394,
+                "Volumetric_flow_water_sc": -1.36448945662937
+            }
+        }
+    },
+    "6": {
+        "time": 600.00289281754,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.64634591139393,
+                "Mass_flow_gas_lc": -9.82389636133372,
+                "Mass_flow_water_lc": -0.372010731939517,
+                "Mass_flow_liquid_sc": -2.64634591139393,
+                "Mass_flow_gas_sc": -9.82389636133372,
+                "Mass_flow_water_sc": -0.372010731939517,
+                "Volumetric_flow_liquid_lc": -12.0955584898854,
+                "Volumetric_flow_gas_lc": -260.998099626183,
+                "Volumetric_flow_water_lc": -1.28772945671371,
+                "Volumetric_flow_liquid_sc": -12.5353227381818,
+                "Volumetric_flow_gas_sc": -43393.8980377931,
+                "Volumetric_flow_water_sc": -1.33923863498226
+            }
+        }
+    },
+    "7": {
+        "time": 700.002892817449,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.62512129459875,
+                "Mass_flow_gas_lc": -9.82835525222751,
+                "Mass_flow_water_lc": -0.368668895757376,
+                "Mass_flow_liquid_sc": -2.62512129459875,
+                "Mass_flow_gas_sc": -9.82835525222751,
+                "Mass_flow_water_sc": -0.368668895757376,
+                "Volumetric_flow_liquid_lc": -11.9985647036867,
+                "Volumetric_flow_gas_lc": -261.126927214505,
+                "Volumetric_flow_water_lc": -1.27616156223707,
+                "Volumetric_flow_liquid_sc": -12.4347850796783,
+                "Volumetric_flow_gas_sc": -43413.5937521706,
+                "Volumetric_flow_water_sc": -1.32720802472655
+            }
+        }
+    },
+    "8": {
+        "time": 800.002892817359,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.61576146325229,
+                "Mass_flow_gas_lc": -9.8303246652438,
+                "Mass_flow_water_lc": -0.367184066321783,
+                "Mass_flow_liquid_sc": -2.61576146325229,
+                "Mass_flow_gas_sc": -9.8303246652438,
+                "Mass_flow_water_sc": -0.367184066321783,
+                "Volumetric_flow_liquid_lc": -11.9557913683056,
+                "Volumetric_flow_gas_lc": -261.183814253151,
+                "Volumetric_flow_water_lc": -1.27102176803694,
+                "Volumetric_flow_liquid_sc": -12.3904490364582,
+                "Volumetric_flow_gas_sc": -43422.2929998499,
+                "Volumetric_flow_water_sc": -1.32186263875842
+            }
+        }
+    },
+    "9": {
+        "time": 900.002892817268,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.61184709533884,
+                "Mass_flow_gas_lc": -9.83113983059022,
+                "Mass_flow_water_lc": -0.366558873926083,
+                "Mass_flow_liquid_sc": -2.61184709533884,
+                "Mass_flow_gas_sc": -9.83113983059022,
+                "Mass_flow_water_sc": -0.366558873926083,
+                "Volumetric_flow_liquid_lc": -11.9379032896399,
+                "Volumetric_flow_gas_lc": -261.207468051825,
+                "Volumetric_flow_water_lc": -1.26885764051336,
+                "Volumetric_flow_liquid_sc": -12.3719072937103,
+                "Volumetric_flow_gas_sc": -43425.8937302145,
+                "Volumetric_flow_water_sc": -1.3196119461339
+            }
+        }
+    },
+    "10": {
+        "time": 1000.00289281718,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.61027340086842,
+                "Mass_flow_gas_lc": -9.831462983193,
+                "Mass_flow_water_lc": -0.366306039643023,
+                "Mass_flow_liquid_sc": -2.61027340086842,
+                "Mass_flow_gas_sc": -9.831462983193,
+                "Mass_flow_water_sc": -0.366306039643023,
+                "Volumetric_flow_liquid_lc": -11.9307118112451,
+                "Volumetric_flow_gas_lc": -261.216902091554,
+                "Volumetric_flow_water_lc": -1.26798244491816,
+                "Volumetric_flow_liquid_sc": -12.364452951482,
+                "Volumetric_flow_gas_sc": -43427.3211527544,
+                "Volumetric_flow_water_sc": -1.31870174271488
+            }
+        }
+    },
+    "11": {
+        "time": 1100.00289281709,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.60965906171233,
+                "Mass_flow_gas_lc": -9.83158733357039,
+                "Mass_flow_water_lc": -0.36620684932829,
+                "Mass_flow_liquid_sc": -2.60965906171233,
+                "Mass_flow_gas_sc": -9.83158733357039,
+                "Mass_flow_water_sc": -0.36620684932829,
+                "Volumetric_flow_liquid_lc": -11.9279044288707,
+                "Volumetric_flow_gas_lc": -261.220554975758,
+                "Volumetric_flow_water_lc": -1.2676390938287,
+                "Volumetric_flow_liquid_sc": -12.3615429239005,
+                "Volumetric_flow_gas_sc": -43427.870430495,
+                "Volumetric_flow_water_sc": -1.31834465758184
+            }
+        }
+    },
+    "12": {
+        "time": 1200.00289281699,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.60942449039989,
+                "Mass_flow_gas_lc": -9.83163418383869,
+                "Mass_flow_water_lc": -0.366168826332119,
+                "Mass_flow_liquid_sc": -2.60942449039989,
+                "Mass_flow_gas_sc": -9.83163418383869,
+                "Mass_flow_water_sc": -0.366168826332119,
+                "Volumetric_flow_liquid_lc": -11.9268325042622,
+                "Volumetric_flow_gas_lc": -261.221939221961,
+                "Volumetric_flow_water_lc": -1.26750747576503,
+                "Volumetric_flow_liquid_sc": -12.3604317966311,
+                "Volumetric_flow_gas_sc": -43428.0773764654,
+                "Volumetric_flow_water_sc": -1.31820777479563
+            }
+        }
+    },
+    "13": {
+        "time": 1300.0028928169,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.60933642564031,
+                "Mass_flow_gas_lc": -9.83165156572723,
+                "Mass_flow_water_lc": -0.366154509436153,
+                "Mass_flow_liquid_sc": -2.60933642564031,
+                "Mass_flow_gas_sc": -9.83165156572723,
+                "Mass_flow_water_sc": -0.366154509436153,
+                "Volumetric_flow_liquid_lc": -11.9264300764567,
+                "Volumetric_flow_gas_lc": -261.22245543588,
+                "Volumetric_flow_water_lc": -1.26745791727899,
+                "Volumetric_flow_liquid_sc": -12.3600146477699,
+                "Volumetric_flow_gas_sc": -43428.1541553595,
+                "Volumetric_flow_water_sc": -1.31815623397015
+            }
+        }
+    },
+    "14": {
+        "time": 1400.00289281681,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.6093037922164,
+                "Mass_flow_gas_lc": -9.83165794117304,
+                "Mass_flow_water_lc": -0.366149193703357,
+                "Mass_flow_liquid_sc": -2.6093037922164,
+                "Mass_flow_gas_sc": -9.83165794117304,
+                "Mass_flow_water_sc": -0.366149193703357,
+                "Volumetric_flow_liquid_lc": -11.9262809531653,
+                "Volumetric_flow_gas_lc": -261.222645619435,
+                "Volumetric_flow_water_lc": -1.26743951666546,
+                "Volumetric_flow_liquid_sc": -12.3598600683935,
+                "Volumetric_flow_gas_sc": -43428.182316838,
+                "Volumetric_flow_water_sc": -1.31813709733208
+            }
+        }
+    },
+    "15": {
+        "time": 1500.00289281672,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.60929182205364,
+                "Mass_flow_gas_lc": -9.83166025939042,
+                "Mass_flow_water_lc": -0.366147241808562,
+                "Mass_flow_liquid_sc": -2.60929182205364,
+                "Mass_flow_gas_sc": -9.83166025939042,
+                "Mass_flow_water_sc": -0.366147241808562,
+                "Volumetric_flow_liquid_lc": -11.9262262540384,
+                "Volumetric_flow_gas_lc": -261.222715035175,
+                "Volumetric_flow_water_lc": -1.26743276010656,
+                "Volumetric_flow_liquid_sc": -12.3598033676225,
+                "Volumetric_flow_gas_sc": -43428.1925568166,
+                "Volumetric_flow_water_sc": -1.31813007051082
+            }
+        }
+    },
+    "16": {
+        "time": 1600.00289281663,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.6092874664129,
+                "Mass_flow_gas_lc": -9.83166109671356,
+                "Mass_flow_water_lc": -0.366146531418961,
+                "Mass_flow_liquid_sc": -2.6092874664129,
+                "Mass_flow_gas_sc": -9.83166109671356,
+                "Mass_flow_water_sc": -0.366146531418961,
+                "Volumetric_flow_liquid_lc": -11.9262063504987,
+                "Volumetric_flow_gas_lc": -261.222740187496,
+                "Volumetric_flow_water_lc": -1.26743030106563,
+                "Volumetric_flow_liquid_sc": -12.3597827356401,
+                "Volumetric_flow_gas_sc": -43428.1962554219,
+                "Volumetric_flow_water_sc": -1.31812751310826
+            }
+        }
+    },
+    "17": {
+        "time": 1700.00289281654,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.609285891579,
+                "Mass_flow_gas_lc": -9.83166139757243,
+                "Mass_flow_water_lc": -0.366146274714115,
+                "Mass_flow_liquid_sc": -2.609285891579,
+                "Mass_flow_gas_sc": -9.83166139757243,
+                "Mass_flow_water_sc": -0.366146274714115,
+                "Volumetric_flow_liquid_lc": -11.9261991541645,
+                "Volumetric_flow_gas_lc": -261.222749249036,
+                "Volumetric_flow_water_lc": -1.26742941247194,
+                "Volumetric_flow_liquid_sc": -12.3597752759005,
+                "Volumetric_flow_gas_sc": -43428.197584369,
+                "Volumetric_flow_water_sc": -1.31812658897081
+            }
+        }
+    },
+    "18": {
+        "time": 1800.00289281645,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.60928532507694,
+                "Mass_flow_gas_lc": -9.83166150522905,
+                "Mass_flow_water_lc": -0.366146182487144,
+                "Mass_flow_liquid_sc": -2.60928532507694,
+                "Mass_flow_gas_sc": -9.83166150522905,
+                "Mass_flow_water_sc": -0.366146182487144,
+                "Volumetric_flow_liquid_lc": -11.9261965654946,
+                "Volumetric_flow_gas_lc": -261.22275249869,
+                "Volumetric_flow_water_lc": -1.26742909322473,
+                "Volumetric_flow_liquid_sc": -12.3597725924697,
+                "Volumetric_flow_gas_sc": -43428.1980599074,
+                "Volumetric_flow_water_sc": -1.31812625695372
+            }
+        }
+    },
+    "19": {
+        "time": 1900.00289281636,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.60928512212939,
+                "Mass_flow_gas_lc": -9.83166154362577,
+                "Mass_flow_water_lc": -0.366146149508291,
+                "Mass_flow_liquid_sc": -2.60928512212939,
+                "Mass_flow_gas_sc": -9.83166154362577,
+                "Mass_flow_water_sc": -0.366146149508291,
+                "Volumetric_flow_liquid_lc": -11.9261956381143,
+                "Volumetric_flow_gas_lc": -261.222753659812,
+                "Volumetric_flow_water_lc": -1.26742897906716,
+                "Volumetric_flow_liquid_sc": -12.3597716311392,
+                "Volumetric_flow_gas_sc": -43428.1982295126,
+                "Volumetric_flow_water_sc": -1.31812613822985
+            }
+        }
+    },
+    "20": {
+        "time": 2000.00289281627,
+        "data": {
+            "left_boundary": {
+                "Mass_flow_liquid_lc": -2.60928504966439,
+                "Mass_flow_gas_lc": -9.83166155728072,
+                "Mass_flow_water_lc": -0.366146137760758,
+                "Mass_flow_liquid_sc": -2.60928504966439,
+                "Mass_flow_gas_sc": -9.83166155728072,
+                "Mass_flow_water_sc": -0.366146137760758,
+                "Volumetric_flow_liquid_lc": -11.9261953069821,
+                "Volumetric_flow_gas_lc": -261.222754073371,
+                "Volumetric_flow_water_lc": -1.26742893840262,
+                "Volumetric_flow_liquid_sc": -12.359771287884,
+                "Volumetric_flow_gas_sc": -43428.198289829,
+                "Volumetric_flow_water_sc": -1.31812609593873
+            }
+        }
+    }
+}
